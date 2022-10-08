@@ -44,6 +44,21 @@ public class cheval {
         taille = uneTaille;
     }
 
+    //Méthodes
+    private static void hennir(){
+        System.out.println("Je hennis !");
+    }
+    public void courrir(){
+        vitesse = 30;
+    }
+    public void trotter(){
+        vitesse = 10;
+    }
+    public void arretter(){
+        vitesse = 0;
+        hennir();
+    }
+
 
 
 
@@ -74,6 +89,6 @@ public class cheval {
         taille = uneTaille;
     }
     public String versChaine(){
-        return "cheval " + nom + ", " + age + "ans, " + poids + "kg, " + taille + "m, vitesse " + vitesse + " 10 km/h";
+        return "cheval " + nom + ", " + age + "ans, " + poids + "kg, " + taille + "m, vitesse " + vitesse + " km/h";
     }
 }

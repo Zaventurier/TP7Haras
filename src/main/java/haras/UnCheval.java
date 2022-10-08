@@ -12,5 +12,11 @@ public class UnCheval {
 
         unCheval.setCheval(nom, age, poids, vitesse, taille);
         System.out.println(unCheval.versChaine());
+        unCheval.trotter();
+        System.out.println(unCheval.versChaine());
+        unCheval.courrir();
+        System.out.println(unCheval.versChaine());
+        unCheval.arretter();
+        System.out.println(unCheval.versChaine());
     }
 }
