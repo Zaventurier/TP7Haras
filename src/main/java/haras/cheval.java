@@ -58,26 +58,6 @@ public class cheval {
         vitesse = 0;
         hennir();
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public static void getcheval(){
 
     }
@@ -91,4 +71,5 @@ public class cheval {
     public String versChaine(){
         return "cheval " + nom + ", " + age + "ans, " + poids + "kg, " + taille + "m, vitesse " + vitesse + " km/h";
     }
+    //Testpourmaj
 }

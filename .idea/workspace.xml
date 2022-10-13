@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="897cbdb7-f88e-43ef-97e7-383aa16c413a" name="Changes" comment="Maj">
+    <list default="true" id="897cbdb7-f88e-43ef-97e7-383aa16c413a" name="Changes" comment="TP7 Terminé">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/haras/UnCheval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haras/UnCheval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/haras/cheval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haras/cheval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665233008896</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="TP7 Terminé">
+      <created>1665235311979</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665235311979</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier Commit" />
     <MESSAGE value="Maj" />
-    <option name="LAST_COMMIT_MESSAGE" value="Maj" />
+    <MESSAGE value="TP7 Terminé" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP7 Terminé" />
   </component>
 </project>
