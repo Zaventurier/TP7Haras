@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="897cbdb7-f88e-43ef-97e7-383aa16c413a" name="Changes" comment="TP7 Terminé">
+    <list default="true" id="897cbdb7-f88e-43ef-97e7-383aa16c413a" name="Changes" comment="TestMaj">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/haras/cheval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haras/cheval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/haras/UnCheval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haras/UnCheval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/haras/cheval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/haras/Cheval.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,12 +35,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -68,7 +72,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665235311979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="TestMaj">
+      <created>1665663932644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665663932644</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,6 +97,7 @@
     <MESSAGE value="Premier Commit" />
     <MESSAGE value="Maj" />
     <MESSAGE value="TP7 Terminé" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP7 Terminé" />
+    <MESSAGE value="TestMaj" />
+    <option name="LAST_COMMIT_MESSAGE" value="TestMaj" />
   </component>
 </project>

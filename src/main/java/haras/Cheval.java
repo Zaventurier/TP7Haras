@@ -1,12 +1,23 @@
 package haras;
 
-public class cheval {
+public class Cheval {
     //Paramètres
     private String nom;
     private int age;
-    private int poids;
+    private float poids;
     private int vitesse;
     private double taille;
+
+    public Cheval(){
+
+    }
+    public Cheval(String nom, int age, float poids, int vitesse, double taille) {
+        this.nom = nom;
+        this.age = age;
+        this.poids = poids;
+        this.vitesse = vitesse;
+        this.taille = taille;
+    }
 
 
     //Acceseurs
@@ -16,7 +27,7 @@ public class cheval {
     public int getAge(){
         return age;
     }
-    public int getPoids(){
+    public float getPoids(){
         return poids;
     }
     public int getVitesse(){
